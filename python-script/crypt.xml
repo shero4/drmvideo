@@ -1,0 +1,15 @@
+<GPACDRM type="CENC AES-CTR">
+  <DRMInfo cypherIV="0x00000000000000000000000000000001" cypherKey="0x6770616363656E6364726D746F6F6C31" cypherOffset="9" type="pssh" version="1">
+    <BS ID128="6770616363656E6364726D746F6F6C31" />
+    <BS bits="32" value="2" />
+    <BS ID128="0x279926496a7f5d25da69f2b3b2799a7f" />
+    <BS ID128="0x676cb88f302d10227992649885984045" />
+    <BS bits="8" string="CID=Toto" />
+    <BS ID128="0xccc0f2b3b279926496a7f5d25da692f6" />
+    <BS ID128="0xccc0f2b3b279926496a7f5d25da692d6" />
+  </DRMInfo>
+
+  <CrypTrack IV_size="8" IsEncrypted="1" first_IV="0x22ee7d4745d3a26a" saiSavedBox="senc" trackID="1">
+   <key KID="0x6699F0841763CDC672E43C5E676981CB" value="0x1E9514A825A470DA65F30EA498B11E96" />
+ </CrypTrack>
+</GPACDRM>
